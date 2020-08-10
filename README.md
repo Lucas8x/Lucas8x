@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá 👋🏼
+```python
+class Me:
+  def __init__(self):
+    self.name = 'Lucas'
+    self.age = 22
+```
 
 <!--
 **Lucas8x/Lucas8x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
