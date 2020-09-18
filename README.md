@@ -4,6 +4,11 @@ class Me:
   def __init__(self):
     self.name = 'Lucas'
     self.age = 22
+    self.nationality = 'Brazilian'
+    self.languages = ['Python', 'JavaScript']
+    self.learning = ['NodeJS', 'React', 'HTML', 'CSS']
+    self.interests = ['Socket.IO', 'TypeScript', 'Docker', 'Mongo']
+    self.freetime = ['Games', 'Animes', 'Manga', 'Series', 'Movies']
 ```
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasemanuel8x/)](https://www.linkedin.com/in/lucasemanuel8x/)
