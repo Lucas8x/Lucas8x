@@ -1,13 +1,13 @@
 ### Olá 👋🏼
 ```python
 class Me:
-  def __init__(self):
+  def __init__(self) -> None:
     self.name = 'Lucas'
     self.age = 22
     self.nationality = 'Brazilian'
     self.languages = ['Python', 'JavaScript']
-    self.learning = ['NodeJS', 'React', 'HTML', 'CSS']
-    self.interests = ['Socket.IO', 'TypeScript', 'Docker', 'Mongo']
+    self.learning = ['NodeJS', 'React', 'TypeScript', 'HTML', 'CSS']
+    self.interests = ['Socket.IO', 'Docker', 'Mongo']
     self.freetime = ['Games', 'Animes', 'Manga', 'Series', 'Movies']
 ```
 
