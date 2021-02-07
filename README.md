@@ -6,8 +6,8 @@ class Me:
     self.age = 22
     self.nationality = 'Brazilian'
     self.languages = ['Python', 'JavaScript']
-    self.learning = ['NodeJS', 'React', 'TypeScript', 'HTML', 'CSS']
-    self.interests = ['Socket.IO', 'Docker', 'Mongo']
+    self.learning = ['NodeJS', 'TypeScript', 'Socket.IO', 'React', 'HTML', 'CSS']
+    self.interests = ['CSS frameworks', 'Docker', 'Mongo']
     self.freetime = ['Games', 'Animes', 'Manga', 'Series', 'Movies']
 ```
 
