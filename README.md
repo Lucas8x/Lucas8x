@@ -2,12 +2,13 @@
 ```python
 class Me:
   def __init__(self) -> None:
-    self.name = 'Lucas'
-    self.age = 22
+    self.name = 'Lucas Emanuel'
+    self.age = 23
     self.nationality = 'Brazilian'
     self.languages = ['Python', 'JavaScript']
     self.learning = ['NodeJS', 'TypeScript', 'Socket.IO', 'React', 'HTML', 'CSS']
     self.interests = ['CSS frameworks', 'Docker', 'Mongo']
+    self.tools = ['Insomnia', 'Firecamp']
     self.freetime = ['Games', 'Animes', 'Manga', 'Series', 'Movies']
 ```
 
