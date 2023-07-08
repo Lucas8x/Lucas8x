@@ -1,4 +1,4 @@
-### Olá 👋🏼
+## Olá 👋🏼
 
 ```python
 class Me:
@@ -6,10 +6,10 @@ class Me:
     self.name = 'Lucas Emanuel'
     self.age = 25
     self.nationality = 'Brazilian'
-    self.languages = ['Python', 'JavaScript']
-    self.learning = ['NodeJS', 'TypeScript', 'Socket.IO', 'React', 'HTML', 'CSS']
-    self.interests = ['CSS frameworks', 'Docker', 'Mongo']
-    self.tools = ['VSCode', 'Pycharm', 'Insomnia', 'Firecamp']
+    self.languages = ['JavaScript', 'Python']
+    self.learning = ['NodeJS', 'TypeScript', 'NextJS', 'Socket.IO', 'React']
+    self.interests = ['TailwindCSS', 'GoLang', 'Prisma', 'GraphQL', 'Docker']
+    self.tools = ['VSCode', 'PyCharm', 'Insomnia', 'RunJS', 'Firecamp']
     self.freetime = ['Games', 'Animes', 'Manga', 'Series', 'Movies']
 ```
 
@@ -71,7 +71,9 @@ class Me:
     Misc
   </summary>
 
-  #### Interest
+#### Interest
+
+  ![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ![redis](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
   ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
   ![realmdb](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
@@ -88,7 +90,7 @@ class Me:
   ![puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white)
   ![adonisjs](https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white)
 
-  #### Others
+#### Others
 
   ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
